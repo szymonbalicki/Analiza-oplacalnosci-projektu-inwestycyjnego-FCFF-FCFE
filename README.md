@@ -48,6 +48,10 @@ Struktura finansowania istotnie wpływa na poziom rentowności kapitału własne
 Finansowanie dłużne zwiększa stopę zwrotu, jednocześnie podnosząc ekspozycję na ryzyko finansowe
 Kluczowym czynnikiem wpływającym na opłacalność jest koszt kapitału oraz struktura finansowania
 
+📸 Excel 
+![E1](/Screens/E1)
+![E2](/Screens/E2)
+
 🛠 Narzędzia
 
 Microsoft Excel
