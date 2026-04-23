@@ -49,8 +49,8 @@ Finansowanie dłużne zwiększa stopę zwrotu, jednocześnie podnosząc ekspozyc
 Kluczowym czynnikiem wpływającym na opłacalność jest koszt kapitału oraz struktura finansowania
 
 📸 Excel 
-![E1](/Screens/E1)
-![E2](/Screens/E2)
+![E1](/Screens/E1.png)
+![E2](/Screens/E2.png)
 
 🛠 Narzędzia
 
